@@ -1,0 +1,179 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Prince Prajapati. Software Engineer with 3+ years of Experience, with a strong background in building robust and scalable web applications. Proficient in various technologies, including Python, OpenCV, CNN, LLM, MySQL, MongoDB and tools & platforms like Docker and AWS. From developing AI-based systems to optimizing database performance, I bring a versatile skill set that ensures success in any engineering environment.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Gamer’s Paradise",
+      "startDate": "2023",
+      "description": "Developed an eCommerce platform for game sales using the Python Django framework. Oversaw end-to-end development and deployment on GitHub. Employed efficient workflow management to ensure timely delivery.",
+      "images": [
+        "images/portfolio/gamersparadise/1.png",
+        "images/portfolio/gamersparadise/2.png",
+        "images/portfolio/gamersparadise/3.png"
+      ],
+      "url": "https://github.com/princeprajapati/gamersparadise",
+      "technologies": [
+        {
+          "class": "devicon-django-plain",
+          "name": "Django"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        }
+      ]
+    },
+    {
+      "title": "Driving Test Booking",
+      "startDate": "2022",
+      "description": "Created a driving test booking platform with Node.js, React.js, and MongoDB. Implemented an admin dashboard and multiple license class support.",
+      "images": [
+        "images/portfolio/driving_test_booking/1.jpeg"
+      ],
+      "url": "https://github.com/princeprajapati/Drive_Test_Booking",
+      "technologies": [
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
+      "title": "Parent’s Eye",
+      "startDate": "2020",
+      "description": "Designed and implemented a model using OpenCV, CMake, HaarCascade, and Machine Learning algorithms to detect child activity. Developed an AI-based web application using Flask Framework, HTML/CSS, Bootstrap, JavaScript, and Python, integrated with Matplotlib for visualization.",
+      "images": [
+        "images/portfolio/parentseye/1.jpeg"
+      ],
+      "url": "https://github.com/princeprajapati/Parent-s-Eye",
+      "technologies": [
+        {
+          "class": "devicon-flask-original",
+          "name": "Flask"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "micro1",
+      "title": "Software Engineer",
+      "years": "Feb 2024 - Present",
+      "mainTech": [
+        "Python",
+        "OpenCV",
+        "CNN",
+        "LLM",
+        "MySQL",
+        "MongoDB",
+        "Docker",
+        "AWS"
+      ],
+      "technologies": [
+        "AI Models Training",
+        "Language Model (LLM) Optimization",
+        "RESTful APIs",
+        "Docker",
+        "AWS",
+        "Prompt Engineering"
+      ]
+    },
+    {
+      "company": "Southern East Inc.",
+      "title": "Software Engineer",
+      "years": "Nov 2022 - Present",
+      "mainTech": [
+        "ReactJs",
+        "Python"
+      ],
+      "technologies": [
+        "ReactJs",
+        "NodeJs",
+        "Django",
+        "Django REST Framework",
+        "MongoDB",
+        "MySQL",
+        "Docker",
+        "Git",
+        "RESTful APIs"
+      ]
+    },
+    {
+      "company": "Nividous",
+      "title": "Python Developer",
+      "years": "Dec 2019 - June 2020",
+      "mainTech": [
+        "Python",
+        "MySQL",
+        "RPA",
+        "Pandas",
+        "Numpy",
+        "AWS"
+      ],
+      "technologies": [
+        "Automated Data Extraction",
+        "Data Transformation",
+        "Integration Testing",
+        "MySQL Optimization",
+        "AWS Cloud Services"
+      ]
+    },
+    {
+      "company": "Softvan",
+      "title": "Software Engineer",
+      "years": "Jan 2019 - Dec 2019",
+      "mainTech": [
+        "Flask",
+        "Python",
+        "OpenCV",
+        "CMake",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "APIs",
+        "Git"
+      ],
+      "technologies": [
+        "AI-based Web Applications",
+        "Image Recognition ML",
+        "RESTful APIs",
+        "Version Control with Git and GitHub"
+      ]
+    }
+  ]
+}
