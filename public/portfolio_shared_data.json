@@ -1,0 +1,68 @@
+{
+  "basic_info": {
+    "name": "Prince Prajapati",
+    "titles": [
+      "Full-Stack Developer",
+      "Software Engineer",
+      "Python Developer",
+      "Backend Developer"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/princeprajapati",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/princeprajapati04/",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "profile.jpeg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "Python",
+        "class": "devicon-python-plain",
+        "level": "95"
+      },
+      {
+        "name": "Django",
+        "class": "devicon-django-plain",
+        "level": "95"
+      },
+      {
+        "name": "ReactJs",
+        "class": "devicon-react-original",
+        "level": "80"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "NodeJs",
+        "class": "devicon-nodejs-plain-wordmark",
+        "level": "75"
+      },
+      {
+        "name": "MongoDB",
+        "class": "devicon-mongodb-plain",
+        "level": "85"
+      },
+      {
+        "name": "Docker",
+        "class": "devicon-docker-plain",
+        "level": "65"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "60"
+      }
+    ]
+  }
+}
